@@ -1,0 +1,5 @@
+filename,path,size_bytes,owner,date_created,date_modified,status
+F02-01_logs.las,D:\Programming\Data_clean\Well log\F02-01_logs.las,1037782,DESKTOP-KIH9BVH\AFIF,2026-02-08 12:45:55,2020-10-25 14:07:45,REMAINING
+F02-01_logs.las,D:\Programming\Data_clean\Well log_dup\F02-01_logs.las,1037782,DESKTOP-KIH9BVH\AFIF,2026-02-08 12:45:55,2020-10-25 14:07:45,DELETED
+F03-04_logs.las,D:\Programming\Data_clean\Well log\F03-04_logs.las,1151052,DESKTOP-KIH9BVH\AFIF,2026-02-08 12:45:55,2020-10-25 14:07:56,REMAINING
+F03-04_logs.las,D:\Programming\Data_clean\Well log_dup\F03-04_logs.las,1151052,DESKTOP-KIH9BVH\AFIF,2026-02-08 12:45:55,2020-10-25 14:07:56,DELETED
